@@ -1,0 +1,14 @@
+{
+  "name": "davia-creation",
+  "version": "1.0.0",
+  "description": "Build and revise private Davia game drafts: characters, places, world state, simulation rules, and Map Assets.",
+  "author": {
+    "name": "Davia",
+    "email": "contact@davia.ai"
+  },
+  "homepage": "https://davia.ai",
+  "repository": "https://github.com/davialabs/davia-creation-plugin",
+  "license": "MIT",
+  "keywords": ["davia", "game-creation", "worldbuilding", "rpg", "mcp"],
+  "logo": "assets/logo.png"
+}
